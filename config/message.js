@@ -1,14 +1,10 @@
 /* SERVER RESPONSE MESSAGE */
 exports.serverResponseMessage = {
   /* Notes Creation */
-  NOTES_CREATED: 'Notes Created Successfully',
-  LOGIN_SUCCESSFFULLY: 'Login SuccessFully',
   DATA_CREATED: 'Data Created Succesfully',
   DATA_UPDATE: 'Data Updated Succesfully',
   DATA_DELETE: 'Data Deleted Succesfully',
   DATA_READ: 'Data Fatched Succesfully',
-  ITEM_CREATED: 'Item Create Succesfully ',
-  CUST_ITEM_CREATED: 'Customer Item Create Succesfully ',
   FAILURE_DATA_CREATE: 'Unable to Create Data',
   FAILURE_DATA_UPDATE: 'Unable to Update Data',
   FAILURE_DATA_DELETE: 'Unable to Delete Data',
